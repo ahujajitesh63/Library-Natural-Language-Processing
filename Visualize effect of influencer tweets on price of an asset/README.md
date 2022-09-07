@@ -33,11 +33,11 @@ $ python -m notebook
 
 ### Output
 * Result - 1 - Sentiment Analysis
-<img src="/Visualize effect of influencer tweets on price of an asset/NLP result.png" alt="Employee data" title="Employee Data title">
+<img src="/Visualize effect of influencer tweets on price of an asset/NLP result.png" alt="data" title="Data title">
 
 * Result - 2 - Visualizing the effect of influencer's Tweet on price of an asset
 <img src="
-/Visualize effect of influencer tweets on price of an asset/Visualize result graphically.png" alt="Employee data" title="Employee Data title">
+/Visualize effect of influencer tweets on price of an asset/Visualize result graphically.png" alt="data" title="Data title">
 
 
 
