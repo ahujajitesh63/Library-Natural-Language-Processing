@@ -27,7 +27,7 @@ $ cd Library-Natural-Language-Processing
 $ cd Tweet Sentiment Analysis using Natural Language Processing
 $ python -m notebook
 ```
-* Click and Run the Notebook: Notebook - Machine Learning - GradientBoostingClassifier - Predict change in price of a stock using twitter sentiment.ipynb
+* Click and Run the Notebook: Notebook - Natural Language Processing - Tweet Analysis.ipynb
 
 ### Output
 * Result - 1
