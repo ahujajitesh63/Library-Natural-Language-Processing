@@ -29,7 +29,7 @@ $ cd Library-Natural-Language-Processing
 $ cd Visualize effect of influencer tweets on price of an asset
 $ python -m notebook
 ```
-* Click and Run the Notebook: Notebook - Machine Learning - GradientBoostingClassifier - Predict change in price of a stock using twitter sentiment.ipynb
+* Click and Run the Notebook: Notebook - Natural Language Processing - Plot effect of influencer tweets on price of an asset using NLP.ipynb
 
 ### Output
 * Result - 1 - Sentiment Analysis
