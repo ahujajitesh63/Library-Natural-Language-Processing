@@ -31,10 +31,10 @@ $ python -m notebook
 
 ### Output
 * Result - 1
-<img src="/Tweet Sentiment Analysis using Natural Language Processing/NLP-result.png" alt="Employee data" title="Employee Data title">
+<img src="/Tweet Sentiment Analysis using Natural Language Processing/NLP-result.png" alt="data" title="Data title">
 
 * Result - 2
-<img src="/Tweet Sentiment Analysis using Natural Language Processing/NLP-result-1.png" alt="Employee data" title="Employee Data title">
+<img src="/Tweet Sentiment Analysis using Natural Language Processing/NLP-result-1.png" alt="data" title="Data title">
 
 
 
