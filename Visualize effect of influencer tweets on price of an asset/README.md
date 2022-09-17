@@ -22,11 +22,11 @@ The things you need before installing the software.
 A step by step guide that will tell you how to get the jupyter notebook up and running.
 
 ```
-$ pip install notebook 
-$ pip install -r requirements.txt
 $ git clone https://github.com/ahujajitesh63/Library-Natural-Language-Processing.git
 $ cd Library-Natural-Language-Processing
 $ cd Visualize effect of influencer tweets on price of an asset
+$ pip install notebook 
+$ pip install -r requirements.txt
 $ python -m notebook
 ```
 * Click and Run the Notebook: Notebook - Natural Language Processing - Plot effect of influencer tweets on price of an asset using NLP.ipynb
